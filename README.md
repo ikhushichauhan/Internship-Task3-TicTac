@@ -23,7 +23,7 @@ A fun and interactive **Tic-Tac-Toe** game created with **HTML**, **CSS**, and *
 ├── fireworks.js # Fireworks animation on win
 └── assets/ # (Optional) images or sounds
 
----
+--
 
 🌟 Demo Features
 Custom win detection logic
